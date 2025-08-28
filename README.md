@@ -10,7 +10,7 @@ Aplikasi Dadu sederhana yang dibuat menggunakan Flutter. Aplikasi ini memungkink
 
 ## Demo
 
-![Demo Aplikasi Dadu](assets/images/demo.png) <!-- Ganti dengan screenshot aplikasi jika ada -->
+![Demo Aplikasi Dadu](https://github.com/farhansyam/dadu_app/blob/main/assets/images/demo/demo.png) <!-- Ganti dengan screenshot aplikasi jika ada -->
 
 ## Teknologi yang Digunakan
 
